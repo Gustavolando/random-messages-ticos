@@ -7,8 +7,13 @@ This tool will help you get a random greeting message for these purposes.
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g random-msg-ticos
 ```
+Or the abbreviated form:
+```
+npm i random-messages-ticos -g
+```
+* Please note that global (-g) packages may require ``sudo`` or super user privileges.
 
 # Usage
 
@@ -17,7 +22,7 @@ random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/platzi/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/Gustavolando/random-messages-ticos)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
