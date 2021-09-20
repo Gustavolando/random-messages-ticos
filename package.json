@@ -1,6 +1,6 @@
 {
   "name": "random-messages-ticos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "When you want to talk with people of Costa Rica, you might want to know how to say Hi in the most common ways native costaricans do.",
   "main": "src/index.js",
   "scripts": {
