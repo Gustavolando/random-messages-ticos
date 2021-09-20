@@ -1,7 +1,7 @@
 {
   "name": "random-messages-ticos",
   "version": "1.0.0",
-  "description": "random messages",
+  "description": "When you want to talk with people of Costa Rica, you might want to know how to say Hi in the most common ways native costaricans do.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,15 @@
   "author": "Gustavo Gonzalez <votagus@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavolando/random-messages-ticos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gustavolando/random-messages-ticos/issues"
+  },
+  "homepage": "https://github.com/Gustavolando/random-messages-ticos#readme"
 }
